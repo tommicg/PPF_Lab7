@@ -1,0 +1,16 @@
+.headerContainer{
+    display:flex;
+  background-color: #593F62;
+}
+
+.headerLogo{
+    height:15vmin;
+    pointer-events: none;
+    
+}
+
+.headerContainer h2{
+    flex-grow: 1;
+}
+
+

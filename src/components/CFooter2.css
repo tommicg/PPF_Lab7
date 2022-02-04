@@ -1,0 +1,9 @@
+.footerTextClass{
+    color: black;
+    text-align: center;
+}
+.footerDivClass{
+    background-color: #7B6D8D;
+    display: grid;
+    text-align: center;
+}
